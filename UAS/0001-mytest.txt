@@ -1,0 +1,36 @@
+Script started on Wed 03 Jun 2020 05:15:17 PM WIB
+
+PS1="$ "
+
+echo $GitHubUser
+
+echo $PSTAMP
+
+eval $PSTAMP
+
+PS1="\$(eval \$PSTAMP)"reynard.adha@badak:~$
+reynard.adha@badak:~$ PS1="$ "
+$
+$ echo $GitHubUser
+reynardryanda
+$
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$
+$ eval $PSTAMP
+200603-171517-f526-reynard.adha/>
+$
+$ PS1="\$(eval \$PSTAMP)"
+200603-171520-5938-reynard.adha/> date
+Wed Jun  3 17:16:01 WIB 2020
+200603-171601-f615-reynard.adha/> gpg2 --list-keys
+/home/fasilkom/mahasiswa/r/reynard.adha/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/5F72A24C 2020-06-03
+uid       [ultimate] Reynard Adha Ryanda <reynardryanda@gmail.com>
+sub   4096R/1A8D18E3 2020-06-03
+
+200603-171611-22da-reynard.adha/> exit
+exit
+
+Script done on Wed 03 Jun 2020 05:16:18 PM WIB
