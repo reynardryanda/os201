@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[URLs](URLs/)
+[Links for Operating Systems](URLs/)
 
 You can use the [editor on GitHub](https://github.com/reynardryanda/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
