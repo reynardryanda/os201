@@ -1,39 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-[Links for Operating Systems](URLs/)
+### Halo, kamu siapa?
+Halo! Perkenalkan nama saya Reynard Adha Ryanda, Mahasiswa di Fakultas Ilmu Komputer Universitas Indonesia dengan NPM 1806191175.
 
-You can use the [editor on GitHub](https://github.com/reynardryanda/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Kenapa kamu buat website ini?
+Halaman ini dibuat untuk Ulangan Akhir Semester pelajaran OS (Operating Systems).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Oooh, emang kamu kelas OS apa ya?
+Saya kelas OS c dan diajarkan oleh pak RMS!
 
-### Markdown
+### Wah keliatannya menarik banget ya pelajaran OS. Jika saya ingin mengetahui lebih lanjut, bisa belajar lewat mana ya?
+Banyak sekali sumber pembelajaran untuk OS. Link di bawah ini merupakan halaman-halaman berguna seputar sistem operasi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Links untuk belajar OS](URLs/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reynardryanda/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sekian dari saya!
+Reynard Adha Ryanda - 1806191175 - OS201 C
