@@ -1,13 +1,13 @@
 Script started on Wed 03 Jun 2020 07:46:19 PM WIB
-reynard.adha@badak:~$ PS1="$ "
+]0;reynard.adha@badak: ~reynard.adha@badak:~$ PS1="$ "
 $ echo $GitHubUser
 reynardryanda
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-#*/}/> ";(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD#
-200603-194640-8d81-reynard.adha/>
+$ TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD# #*/}/> ";
+200603-194640-8d81-reynard.adha/> 
 $ eval $PSTAMP
-200603-194721-e73a-reynard.adha/>
+200603-194721-e73a-reynard.adha/> 
 $ PS1="\$(eval \$PSTAMP)"
 200603-194730-e85c-reynard.adha/> date
 Wed Jun  3 19:47:33 WIB 2020
